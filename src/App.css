@@ -1,0 +1,43 @@
+.App {
+  text-align: center;
+}
+
+
+.form-control{
+  margin-top: 2em;
+  box-shadow: none!important;
+  outline: none;
+  border-color: none;
+  align-items: center;
+  justify-content: center;
+}
+
+.form-control:focus {
+  box-shadow: none!important;
+  border-color: #06325e!important;
+}
+
+.btn.btn-sm{
+  background-color: #06325e;
+  color: #ffffff;
+  letter-spacing: 2px;
+}
+.btn.btn-sm:hover{
+color: #65809F;
+}
+
+
+.btn.btn-sm:focus {
+  box-shadow: none!important;
+  border-color: #06325e!important;
+}
+
+.trend{
+  font-size: 2em;
+  margin-bottom: 0.5em;
+  color: #06325e;
+}
+
+.col.inputbutton{
+  margin-bottom: 4em;
+}
